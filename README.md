@@ -5,8 +5,10 @@
 
 2.Navigate to project directory
   cd rbac-ui
+
 3.Install Dependencies
   npm install
+
 4.Start the development server
   npm start
 
@@ -16,7 +18,9 @@ Open http://localhost:3000 in a web browser.
 # Test Instructions
 
 1.Use the Users section to test CRUD operations for users.
+
 2.Use the Roles section to manage roles and permissions.
+
 3.Test the system's responsiveness by accessing it on various devices.
 
 
