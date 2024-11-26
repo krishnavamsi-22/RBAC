@@ -1,7 +1,7 @@
 # Set up Instructions
 
 1.Clone the respository
-  git clone [link]
+  git clone https://github.com/krishnavamsi-22
 
 2.Navigate to project directory
   cd rbac-ui
@@ -15,9 +15,9 @@ Open http://localhost:3000 in a web browser.
 --------------------------------------------------------------------------
 # Test Instructions
 
-Use the Users section to test CRUD operations for users.
-Use the Roles section to manage roles and permissions.
-Test the system's responsiveness by accessing it on various devices.
+1.Use the Users section to test CRUD operations for users.
+2.Use the Roles section to manage roles and permissions.
+3.Test the system's responsiveness by accessing it on various devices.
 
 
 
