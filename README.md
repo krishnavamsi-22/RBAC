@@ -1,3 +1,26 @@
+# Set up Instructions
+
+1.Clone the respository
+  git clone [link]
+
+2.Navigate to project directory
+  cd rbac-ui
+3.Install Dependencies
+  npm install
+4.Start the development server
+  npm start
+
+Open http://localhost:3000 in a web browser.
+
+--------------------------------------------------------------------------
+# Test Instructions
+
+Use the Users section to test CRUD operations for users.
+Use the Roles section to manage roles and permissions.
+Test the system's responsiveness by accessing it on various devices.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
