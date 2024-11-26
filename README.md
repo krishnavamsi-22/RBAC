@@ -1,15 +1,19 @@
 # Set up Instructions
 
 1.Clone the respository
+
   git clone https://github.com/krishnavamsi-22
 
 2.Navigate to project directory
+
   cd rbac-ui
 
 3.Install Dependencies
+
   npm install
 
 4.Start the development server
+
   npm start
 
 Open http://localhost:3000 in a web browser.
